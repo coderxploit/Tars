@@ -11,6 +11,9 @@ Under PBL Project by Shubham Parmar for 5h sem project.
 
 # Usage:
 ## Installation
+  - Open Terminal and:
+  -- git clone https://github.com/coderxploit/Tars.git
+
 ## - For Windows:
            - pip install -r requirements_ms.txt
            - pipwin install pyaudio
