@@ -11,7 +11,8 @@ Under PBL Project by Shubham Parmar for 5h sem project.
 
 # Usage:
 ## Installation
-- For Windows:
-   pip install -r requirements_ms.txt 
-- For Linux:
-   pip install -r requirements.txt
+## - For Windows:
+           - pip install -r requirements_ms.txt
+           - pipwin install pyaudio
+## - For Linux:
+            pip install -r requirements.txt
