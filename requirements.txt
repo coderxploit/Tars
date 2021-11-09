@@ -1,0 +1,7 @@
+gTTS
+speech_recognition
+selenium
+requests
+bs4
+pygame
+pyaudio
