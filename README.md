@@ -7,7 +7,7 @@ TARS is a smart US Marine navy corp robot.
 it can help you to complete your daily computer tasks like sending Emails, playing music o spotify, googling for you, Find on wikipedia, or Surf Youtube.
 
 # Development
-Under PBL Project by Shubham Parmar for 5h sem project.
+Under PBL Project by Shubham Parmar for 5th sem project.
 
 # Usage:
 ## Installation
